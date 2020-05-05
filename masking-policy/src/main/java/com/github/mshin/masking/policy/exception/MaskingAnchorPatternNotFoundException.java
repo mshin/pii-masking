@@ -1,7 +1,7 @@
 package com.github.mshin.masking.policy.exception;
 
 /**
- * @author mshin
+ * @author MunChul Shin
  */
 public class MaskingAnchorPatternNotFoundException extends RuntimeException {
 

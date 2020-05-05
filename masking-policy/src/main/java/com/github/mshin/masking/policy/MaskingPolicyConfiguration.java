@@ -4,7 +4,7 @@ package com.github.mshin.masking.policy;
  * Must set both MaskedCharactersPosition and MaskingPolicy to configure Masking
  * Strategy.
  * 
- * @author mshin
+ * @author MunChul Shin
  */
 public abstract class MaskingPolicyConfiguration {
 

@@ -16,7 +16,7 @@ import com.github.mshin.masking.service.api.PiiAnnotatedObjectMaskingHandler;
 import com.github.mshin.masking.service.impl.DefaultPiiAnnotationMaskingServiceImpl;
 
 /**
- * @author mshin
+ * @author MunChul Shin
  */
 public class TestPiiAnnotatedModelMaskingServiceNoReflection {
 

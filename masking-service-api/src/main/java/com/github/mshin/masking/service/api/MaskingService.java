@@ -3,7 +3,7 @@ package com.github.mshin.masking.service.api;
 import java.util.Collection;
 
 /**
- * @author mshin
+ * @author MunChul Shin
  */
 public interface MaskingService<T> {
 

@@ -4,7 +4,7 @@ import com.github.mshin.masking.policy.MaskingPolicyConfiguration;
 import com.github.mshin.masking.policy.util.MaskingPolicyUtil;
 
 /**
- * @author mshin
+ * @author MunChul Shin
  */
 public interface MaskingStrategy {
 

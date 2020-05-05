@@ -5,7 +5,7 @@ import com.github.mshin.masking.service.api.MaskingStrategy;
 import com.github.mshin.masking.service.api.PiiAnnotatedModel;
 
 /**
- * @author mshin
+ * @author MunChul Shin
  */
 public class PiiAnnotatedModelMaskingServiceImpl implements MaskingService<PiiAnnotatedModel> {
 

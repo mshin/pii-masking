@@ -6,7 +6,7 @@ import com.github.mshin.masking.policy.MaskEachCharacterMaskingPolicy;
  * This one extends MaskEachCharacterMaskingPolicy instead of
  * MaskingPolicyConfiguration.
  * 
- * @author mshin
+ * @author MunChul Shin
  */
 public final class ZipCodeMaskingPolicy extends MaskEachCharacterMaskingPolicy {
 

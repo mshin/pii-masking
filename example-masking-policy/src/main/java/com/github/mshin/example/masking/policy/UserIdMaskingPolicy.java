@@ -10,7 +10,7 @@ import com.github.mshin.masking.policy.MaskingPolicyConfiguration;
  * 12345 -> 1***5 <br>
  * 123456 -> 1****6 <br>
  *
- * @author mshin
+ * @author MunChul Shin
  */
 public final class UserIdMaskingPolicy extends MaskingPolicyConfiguration {
 

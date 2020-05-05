@@ -13,7 +13,7 @@ import com.github.mshin.masking.policy.MaskingPolicyConfiguration.MaskingPolicy;
 import com.github.mshin.masking.policy.exception.MisconfiguredMaskingPolicyException;
 
 /**
- * @author mshin
+ * @author MunChul Shin
  */
 public class MaskingPolicyUtilMisconfigurationTest {
 

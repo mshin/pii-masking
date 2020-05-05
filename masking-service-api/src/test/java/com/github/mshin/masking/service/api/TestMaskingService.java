@@ -12,7 +12,7 @@ import org.slf4j.LoggerFactory;
 import com.github.mshin.masking.service.impl.DefaultPiiAnnotationMaskingServiceImpl;
 
 /**
- * @author mshin
+ * @author MunChul Shin
  */
 public class TestMaskingService {
 

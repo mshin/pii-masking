@@ -9,7 +9,7 @@ import com.github.mshin.masking.policy.MaskingPolicyConfiguration;
  * mshi@redhat.com -> m***@redhat.com <br>
  * mshin@redhat.com -> m****@redhat.com <br>
  *
- * @author mshin
+ * @author MunChul Shin
  */
 public final class EmailAddressMaskingPolicy extends MaskingPolicyConfiguration {
 

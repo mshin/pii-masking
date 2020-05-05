@@ -5,7 +5,7 @@ import com.github.mshin.masking.policy.MaskingPolicyConfiguration;
 /**
  * Replaces content with '************' every time.
  * 
- * @author mshin
+ * @author MunChul Shin
  */
 public class PasswordMaskingPolicy extends MaskingPolicyConfiguration {
 

@@ -3,7 +3,7 @@ package com.github.mshin.masking.policy;
 /**
  * This is the default masking strategy.
  * 
- * @author mshin
+ * @author MunChul Shin
  */
 public class MaskEachCharacterMaskingPolicy extends MaskingPolicyConfiguration {
 

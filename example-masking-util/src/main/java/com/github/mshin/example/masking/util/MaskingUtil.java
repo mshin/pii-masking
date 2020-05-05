@@ -9,6 +9,9 @@ import com.github.mshin.masking.policy.MaskEachCharacterMaskingPolicy;
 import com.github.mshin.masking.policy.MaskingPolicyConfiguration;
 import com.github.mshin.masking.policy.util.MaskingPolicyUtil;
 
+/**
+ * @author MunChul Shin
+ */
 public class MaskingUtil {
 
     private MaskingUtil() {

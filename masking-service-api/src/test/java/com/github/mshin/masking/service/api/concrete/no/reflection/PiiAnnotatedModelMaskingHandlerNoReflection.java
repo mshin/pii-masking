@@ -16,7 +16,7 @@ import com.github.mshin.masking.service.api.PiiAnnotatedModel;
  * computationally faster but theoretically harder to maintain as it severs the
  * link between the policy and the field masked on the model.
  * 
- * @author mshin
+ * @author MunChul Shin
  */
 public class PiiAnnotatedModelMaskingHandlerNoReflection implements MaskingHandler<PiiAnnotatedModel> {
 

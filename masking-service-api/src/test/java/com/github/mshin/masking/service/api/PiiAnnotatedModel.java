@@ -8,7 +8,7 @@ import com.github.mshin.example.masking.policy.ZipCodeMaskingPolicy;
 import com.github.mshin.masking.annotation.Pii;
 
 /**
- * @author mshin
+ * @author MunChul Shin
  */
 public class PiiAnnotatedModel implements Serializable {
 

@@ -12,7 +12,7 @@ import com.github.mshin.masking.annotation.Pii;
 import com.github.mshin.masking.policy.MaskingPolicyConfiguration;
 
 /**
- * @author mshin
+ * @author MunChul Shin
  * @param <T>
  */
 public interface PiiAnnotatedObjectMaskingHandler<T> extends MaskingHandler<T> {

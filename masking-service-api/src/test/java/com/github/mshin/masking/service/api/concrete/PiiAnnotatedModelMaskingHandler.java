@@ -16,7 +16,7 @@ import com.github.mshin.masking.service.api.PiiAnnotatedModel;
  * the policy class. This method caches the instances to reduce the reflection
  * footprint.
  * 
- * @author mshin
+ * @author MunChul Shin
  */
 public class PiiAnnotatedModelMaskingHandler implements MaskingHandler<PiiAnnotatedModel> {
 

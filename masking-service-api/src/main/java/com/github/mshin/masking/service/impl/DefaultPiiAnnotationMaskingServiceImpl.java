@@ -5,7 +5,7 @@ import com.github.mshin.masking.service.api.MaskingStrategy;
 import com.github.mshin.masking.service.api.PiiAnnotatedObjectMaskingHandler;
 
 /**
- * @author mshin
+ * @author MunChul Shin
  */
 public class DefaultPiiAnnotationMaskingServiceImpl implements MaskingService<Object> {
 

@@ -9,7 +9,7 @@ import com.github.mshin.masking.policy.MaskEachCharacterMaskingPolicy;
 import com.github.mshin.masking.policy.MaskingPolicyConfiguration;
 
 /**
- * @author mshin
+ * @author MunChul Shin
  */
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.FIELD)

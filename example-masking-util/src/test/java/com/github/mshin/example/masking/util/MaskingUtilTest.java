@@ -5,6 +5,9 @@ import static org.junit.Assert.assertNull;
 
 import org.junit.Test;
 
+/**
+ * @author MunChul Shin
+ */
 public class MaskingUtilTest {
 
     @Test

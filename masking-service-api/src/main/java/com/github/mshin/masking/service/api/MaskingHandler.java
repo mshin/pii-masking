@@ -12,7 +12,7 @@ import org.slf4j.LoggerFactory;
 import com.github.mshin.masking.policy.MaskingPolicyConfiguration;
 
 /**
- * @author mshin
+ * @author MunChul Shin
  * @param <T>
  */
 public interface MaskingHandler<T> {

@@ -9,7 +9,7 @@ import com.github.mshin.masking.policy.MaskingPolicyConfiguration;
  * (555) 888-3489 -> (***) ***-3489 <br>
  * 1800HANDYMN -> *******DYMN <br>
  * 
- * @author mshin
+ * @author MunChul Shin
  */
 public class PhoneNumberMaskingPolicy extends MaskingPolicyConfiguration {
 
